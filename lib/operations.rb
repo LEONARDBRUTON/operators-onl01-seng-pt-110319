@@ -8,7 +8,7 @@ def unsafe?(speed)
   
     return "unsafe"
   else 
-    return "true"
+    return true
   end
 end
 
